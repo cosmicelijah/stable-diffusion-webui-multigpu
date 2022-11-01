@@ -1,4 +1,6 @@
 # Stable Diffusion web UI
+Forked by CosmicElijah
+
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](txt2img_Screenshot.png)
